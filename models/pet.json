@@ -1,0 +1,15 @@
+{
+  "type": "object",
+  "title": "Pet",
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    },
+    "animal": {
+      "type": "string"
+    }
+  }
+}
