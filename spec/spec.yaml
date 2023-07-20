@@ -49,5 +49,5 @@ components:
         - emailVerified
   responses:
     Standard:
-      description: Example response
+      description: Example response updated?
 
