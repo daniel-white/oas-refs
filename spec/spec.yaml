@@ -53,4 +53,7 @@ components:
       content:
         application/json:
           schema:
-            $ref: ../models/pet.json
+            type: object
+            properties:
+              age:
+                type: number
