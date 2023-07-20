@@ -50,10 +50,4 @@ components:
   responses:
     Standard:
       description: Example response
-      content:
-        application/json:
-          schema:
-            type: object
-            properties:
-              age:
-                type: number
+
