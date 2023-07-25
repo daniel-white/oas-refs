@@ -50,6 +50,8 @@ components:
   responses:
     Standard:
       description: Example response updated?
-      schema:
-        type: 'boolean'
+      content:
+        application/json:
+          schema:
+            type: 'boolean'
 
