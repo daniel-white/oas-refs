@@ -50,4 +50,6 @@ components:
   responses:
     Standard:
       description: Example response updated?
+      schema:
+        $ref: '../models/pet.json'
 
