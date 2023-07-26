@@ -53,5 +53,7 @@ components:
       content:
         application/json:
           schema:
-            type: 'boolean'
+            $ref: ../models/pet.json
+          # schema:
+          #   type: 'boolean'
 
